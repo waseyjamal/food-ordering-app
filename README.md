@@ -6,28 +6,28 @@ A complete food ordering workflow built with Flutter using BLoC architecture, fo
 
 ### Home & Restaurant Flow
 <div align="center">
-  <img src="screenshots/1.jpg" width="30%" alt="Home Screen"/>
-  <img src="screenshots/2.jpg" width="30%" alt="Restaurant List"/>
-  <img src="screenshots/3.jpg" width="30%" alt="Restaurant Search"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/1.jpg" width="30%" alt="Home Screen"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/2.jpg" width="30%" alt="Restaurant List"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/3.jpg" width="30%" alt="Restaurant Search"/>
 </div>
 
 ### Menu & Cart Management
 <div align="center">
-  <img src="screenshots/4.jpg" width="30%" alt="Menu Screen"/>
-  <img src="screenshots/5.jpg" width="30%" alt="Food Details"/>
-  <img src="screenshots/6.jpg" width="30%" alt="Cart Screen"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/4.jpg" width="30%" alt="Menu Screen"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/5.jpg" width="30%" alt="Food Details"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/6.jpg" width="30%" alt="Cart Screen"/>
 </div>
 
 ### Checkout Process
 <div align="center">
-  <img src="screenshots/7.jpg" width="30%" alt="Address Screen"/>
-  <img src="screenshots/8.jpg" width="30%" alt="Payment Screen"/>
-  <img src="screenshots/9.jpg" width="30%" alt="Order Review"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/7.jpg" width="30%" alt="Address Screen"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/8.jpg" width="30%" alt="Payment Screen"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/9.jpg" width="30%" alt="Order Review"/>
 </div>
 
 ### Order Completion
 <div align="center">
-  <img src="screenshots/10.jpg" width="30%" alt="Order Confirmation"/>
+  <img src="https://github.com/waseyjamal/food-ordering-app/raw/main/10.jpg" width="30%" alt="Order Confirmation"/>
 </div>
 
 ## 🎯 Features
