@@ -133,7 +133,7 @@ Requirement	Description	Implemented
 
 👤 Name: Wasey Jamal
 💼 Role: Flutter Developer
-📧 Email: waseyjamal@gmail.com
+📧 Email: waseyjamal000@gmail.com
 
 🌐 GitHub: @waseyjamal
 
